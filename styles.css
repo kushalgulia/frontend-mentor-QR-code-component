@@ -16,7 +16,7 @@ p {
 .card-text {
   font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 15px;
   color: hsl(220, 15%, 55%);
 }
 .card {
@@ -27,7 +27,7 @@ p {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  box-shadow: 5px 5px 10px hsl(220, 15%, 55%);
+  box-shadow: 2px 2px 20px hsl(220, 15%, 55%);
 }
 .QR {
   border-radius: 5%;
